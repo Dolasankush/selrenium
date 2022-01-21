@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-13T14:29:40 IST" name="Default suite" finished-at="2021-11-13T14:29:40 IST" duration-ms="123">
+    <groups>
+    </groups>
+    <test started-at="2021-11-13T14:29:40 IST" name="Default test" finished-at="2021-11-13T14:29:40 IST" duration-ms="123">
+      <class name="POM.Dataprovoider">
+        <test-method signature="login(java.lang.String)[pri:0, instance:POM.Dataprovoider@6a84a97d]" started-at="2021-11-13T14:29:40 IST" name="login" data-provider="TestData" finished-at="2021-11-13T14:29:40 IST" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FisrtValue]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String)[pri:0, instance:POM.Dataprovoider@6a84a97d]" started-at="2021-11-13T14:29:40 IST" name="login" data-provider="TestData" finished-at="2021-11-13T14:29:40 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SecondValue]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String)[pri:0, instance:POM.Dataprovoider@6a84a97d]" started-at="2021-11-13T14:29:40 IST" name="login" data-provider="TestData" finished-at="2021-11-13T14:29:40 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Thirdvalue]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- POM.Dataprovoider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
